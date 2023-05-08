@@ -10,6 +10,8 @@
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Terminal-090909?style=for-the-badge&logo=terminal&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/git-090909?style=for-the-badge&logo=git&logoColor=8cc4d7)
 
 + ### My CV <a href="https://drive.google.com/file/d/15UBlZscTRUkSf0gEFnz1e4Mpot1Lx-eK/view?usp=share_link"><img src="https://image.winudf.com/v2/image/Y29tLmxhc3R3b29kcy5yZXN1bWVidWlsZGVyX2ljb25fMTUwNjI5Njc2N18wNzA/icon.png?w=340&fakeurl=1" width="40" height="40"/>
 </a> 
