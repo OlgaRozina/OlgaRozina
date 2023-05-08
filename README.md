@@ -15,9 +15,8 @@
 ---
 ### My CV <a href="https://drive.google.com/file/d/15UBlZscTRUkSf0gEFnz1e4Mpot1Lx-eK/view?usp=share_link"><img src="https://image.winudf.com/v2/image/Y29tLmxhc3R3b29kcy5yZXN1bWVidWlsZGVyX2ljb25fMTUwNjI5Njc2N18wNzA/icon.png?w=340&fakeurl=1" width="40" height="40"/>
 ---
-</a> 
 ### Testing Documentation
-
+  
 - [Checklists](https://github.com/OlgaRozina/CkeckLists)
 - [Test-Cases](https://github.com/OlgaRozina/Test_case)
 - [Bug-Reports](https://github.com/OlgaRozina/Bug-Report)
@@ -29,16 +28,3 @@
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/olga-rozina/)
 ---
 
-**OlgaRozina/OlgaRozina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
