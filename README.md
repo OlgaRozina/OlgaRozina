@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## I'm Junior QA Specialist⚡
 ### Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
