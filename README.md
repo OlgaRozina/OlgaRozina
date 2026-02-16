@@ -19,7 +19,6 @@
   <img src="https://image.winudf.com/v2/image/Y29tLmxhc3R3b29kcy5yZXN1bWVidWlsZGVyX2ljb25fMTUwNjI5Njc2N18wNzA/icon.png?w=340&fakeurl=1"
        width="40" height="40" alt="CV">
 </a>
-
 ---
 ### Testing Documentation
   
